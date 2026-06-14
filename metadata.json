@@ -1,0 +1,6 @@
+{
+  "name": "Rousseau Higher Institute of Technology",
+  "description": "Official institutional website for Rousseau Higher Institute of Technology (RHIT) including program listing, international partnerships, admissions application, and back-office management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
